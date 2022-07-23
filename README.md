@@ -26,6 +26,7 @@
 
         Initial commit
 
+
 ### poniższe zmniany w tym pliku robię po commicie i po wysłaniu do repo
 
 ### git add README.md
@@ -33,3 +34,5 @@
 ### git commit
 
 ### git push origin main
+
+

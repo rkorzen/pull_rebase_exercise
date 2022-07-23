@@ -25,3 +25,11 @@
     Date:   Sat Jul 23 09:06:10 2022 +0200
 
         Initial commit
+
+### poniższe zmniany w tym pliku robię po commicie i po wysłaniu do repo
+
+### git add README.md
+
+### git commit
+
+### git push origin main
